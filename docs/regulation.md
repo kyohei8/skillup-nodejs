@@ -67,6 +67,7 @@ var newText = text;
 * metaタグのcharsetには必ずUTF-8を使用してください
 
 例
+
 ```html
 <!DOCTYPE html>
 <html>
